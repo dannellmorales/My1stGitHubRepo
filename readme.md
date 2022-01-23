@@ -8,4 +8,4 @@
     - Push and Pull
     -Branches
 3. Github Remote Setup and Push
-4. Q & A
+4. Q & Agit branch -M main
